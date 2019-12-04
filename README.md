@@ -1,7 +1,7 @@
 # Smart-Mirror-Project
 A Raspberry Pi based Magic Mirror that can show your Google Calendar, Near by Events, Meetings, Upcoming Holiday list, Stock Prize, and Checklist, As well as talk with you, take commands, play Mp3 songs and youtube for you. 
 
-#### Resource Used:
+#### Resources Used:
 
 - **Magic Mirror and Modules**
 >  https://github.com/MichMich/MagicMirror
